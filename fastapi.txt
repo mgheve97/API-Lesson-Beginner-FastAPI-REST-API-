@@ -1,0 +1,32 @@
+                Fast API
+
+Core Advantages of Fast API
+
+    Advantages #1: Data Validation
+    Advantages #2: Auto Documentation
+    Advantages #3: Auto Completion and Code Suggestions
+
+Endpoint -> An API endpoint is the point of entry in a communication channel 
+    when two systems are interacting. It refers to touchpoints of the 
+    communication between an API and a server.
+
+GET -> Returning Information
+POST -> Sending Information to the post endpoint or this post will be creating
+    new.
+PUT -> Update something in the database
+DELETE -> Deleting something
+
+--reload -> telling the uvicorn to reload the web server
+    every time there is a changes in the code.
+ 
+What is API?
+API (Application Programming Interface)
+    -> A web service that provide an interface to applications to manipulate 
+    and retrieve information.
+
+JSON (JavaScript Object Notation)
+
+Query Parameter -> something that have '?' before the variables
+
+Request Body & Post Methods
+
